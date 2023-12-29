@@ -1,0 +1,11 @@
+#algoritmo que muestre el monto a pagar por una llamada telefonica
+print("CLAVES DE DESTINO")
+print("[1] Estados Unidos - $0.13")
+print("[2] Canada - $0.11")
+print("[5] America - $0.")
+print("[6]  - $0.")
+print("[8]  - $0.")
+print("[9]  - $0.")
+print("[10]  - $0.")
+print("[15]  - $0.")
+print("[20]  - $0.")
